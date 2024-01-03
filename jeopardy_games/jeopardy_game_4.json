@@ -1,0 +1,206 @@
+[
+    {
+        "BRITISH AUTHORS": [
+            {
+                "round": "Jeopardy!",
+                "question": "'By age 23 she had written early versions of \"Sense and Sensibility\" and \"Pride and Prejudice\"'",
+                "answer": "(Jane) Austen",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Byron was Lord Byron from age 10; this poet had to wait until his 70s, in 1884'",
+                "answer": "Alfred Lord Tennyson",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'This aging romantic lived to write an ode on the installation of Prince Albert as Chancellor of Cambridge'",
+                "answer": "William Wordsworth",
+                "value": "$1,000"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'He explained the genesis of his masterpiece in the <a href=\"http://www.j-archive.com/media/2005-05-26_J_20.mp3\">following passage</a><br /><br /><i>\"It was on the 15th of October, 1764, as I sat musing amidst the ruins of the capital, that the idea of writing the decline and fall of the city first started to my mind.\"</i>'",
+                "answer": "Edward Gibbon",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'In 2002 Christopher Hitchens published a book called \"Why\" this great anti-totalitarian writer \"Matters\"'",
+                "answer": "George Orwell",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "HODGEPODGE": [
+            {
+                "round": "Jeopardy!",
+                "question": "'From 1909 until 1958, ears of wheat appeared on the back of this U.S. coin'",
+                "answer": "the penny",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'On our summer solstice, the sun at noon is directly over this \"tropic\"'",
+                "answer": "the Tropic of Cancer",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Phoenix, Arizona is in this time zone'",
+                "answer": "Mountain",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Name shared by a clay & straw brick home & a Photoshop maker'",
+                "answer": "adobe",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'In photography, these lens attachments include polarizing, star & neutral density'",
+                "answer": "filters",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "NOW THAT'S SAUCY!": [
+            {
+                "round": "Jeopardy!",
+                "question": "'Italian for \"pounded\", this basil-y sauce originated in Genoa'",
+                "answer": "pesto",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'French term for a thickener of soups & white sauces, made from flour & butter'",
+                "answer": "roux",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The tomatoey sauce duglere is to be served over this, perhaps a nice brill'",
+                "answer": "fish",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Don't hold the mayo in this sauce, whose name is something to avoid in dentistry'",
+                "answer": "tartar",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'A \"truthiness\"-loving TV pundit shares his name with this meat glaze, butter, shallots, wine & lemon juice sauce'",
+                "answer": "colbert",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "GEEK CHIC": [
+            {
+                "round": "Jeopardy!",
+                "question": "'This smartphone brand is gunning for the iPhone with the \"Storm\" touchscreen phone'",
+                "answer": "the BlackBerry",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'If you want a bracelet Bravia, this company has developed the world's first flexible OLED screen'",
+                "answer": "Sony",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Plastics are being experimented on to make solar cells, as this 2nd-most abundant element in Earth's crust is costly'",
+                "answer": "silicon",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The Felica card, a standard in Japan for ID cards, train passes & shopping, uses RFID, this type of frequency ID'",
+                "answer": "radio",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'New super-thin laptops like the Toshiba Portege R500 use this type of hard drive'",
+                "answer": "flash",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "ANTROPOLOGY": [
+            {
+                "round": "Jeopardy!",
+                "question": "'The Spinifex people of Australia are among the few remaining societies of foragers, also called \"hunter\"- these'",
+                "answer": "gatherers",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The light skin of northern peoples prevents rickets by turning limited sunlight into the maximum amount of this vitamin'",
+                "answer": "vitamin D",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Rotund Venus figures made of this substance are common artworks of the age named for this substance'",
+                "answer": "stone",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'In some societies this type of \"feud\" is settled by paying this type of \"money\"'",
+                "answer": "blood",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'This study of one society, from the Greek for \"people\", began with Bronislaw Malinowski's work in Melanesia'",
+                "answer": "ethnography",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "COUNTDOWN": [
+            {
+                "round": "Jeopardy!",
+                "question": "'British Hanoverian kings:<br />4. George IV<br />3. George III<br />2. This king'",
+                "answer": "George II",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The Presidents:<br />5. Monroe<br />4. Madison<br />3. This guy'",
+                "answer": "Thomas Jefferson",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The periodic table:<br />4. Beryllium<br />3. Lithium<br />2. This element'",
+                "answer": "helium",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'\"The 12 Days Of Christmas\" gifts:<br />7. Swans a-swimming<br />6. Geese a-laying<br />5. These'",
+                "answer": "golden rings",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The states: <br />49. Alaska<br />48. Arizona<br />47. This'",
+                "answer": "New Mexico",
+                "value": "$1000"
+            }
+        ]
+    }
+]

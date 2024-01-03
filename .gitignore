@@ -6,3 +6,5 @@
 # ignore virtual environment
 jeopardy_venv/
 
+# ignore pycaches
+**/__pycache__/

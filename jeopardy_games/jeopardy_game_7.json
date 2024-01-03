@@ -1,0 +1,206 @@
+[
+    {
+        "ROCK STARS SELL OUT": [
+            {
+                "round": "Jeopardy!",
+                "question": "'After this rocker did 2 Fidelity Investments adverts in 2005, one headline read \"I am the adman, goo goo g'joob\"'",
+                "answer": "Paul McCartney",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'\"Judas!\" was the cry after this legend shed his acoustic guitar for an electric one in a 1966 concert'",
+                "answer": "Bob Dylan",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'In ads for the \"Break Through\" campaign, Cadillac used \"Rock And Roll\" by this seminal British band'",
+                "answer": "Led Zeppelin",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Van Halen's \"Right Now\" spearheaded the campaign for this \"crystal\" drink in the 1990s'",
+                "answer": "Pepsi",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'This group's \"Blister In The Sun\" can be heard in Wendy's ads'",
+                "answer": "The Violent Femmes",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "FOOD & DRINK": [
+            {
+                "round": "Jeopardy!",
+                "question": "'There's a museum in Corbin, Kentucky dedicated to this man famous for his 11 herbs & spices'",
+                "answer": "Colonel Sanders",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'A nice Peroni beer from this country will go perfectly with your pepperoni pizza'",
+                "answer": "Italy",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'In 1680 the French social critic Marquise de Sevigne made the first mention of adding this to tea'",
+                "answer": "milk",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Thursday's special at Hollywood's Musso & Frank is this classic made with poultry, gravy, vegetables & a crust'",
+                "answer": "chicken pot pie",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Fruit juice, a croissant or pastry & coffee or tea is this type of \"breakfast\"'",
+                "answer": "continental",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "STARTS & ENDS WITH \"T\"": [
+            {
+                "round": "Jeopardy!",
+                "question": "'A pad of writing paper, or a pill'",
+                "answer": "a tablet",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'A run-down apartment house'",
+                "answer": "a tenement",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'A doodad, or a small piece of jewelry'",
+                "answer": "a trinket",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'A great stream, as of water or lava'",
+                "answer": "a torrent",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'In a right triangle, it's the ratio of the side opposite an acute angle to the side adjacent to the angle'",
+                "answer": "the tangent",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "FAMOUS SHAMUS": [
+            {
+                "round": "Jeopardy!",
+                "question": "'This 19th century character was known for his pipe smoking, violin playing & even cocaine use'",
+                "answer": "Sherlock Holmes",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'You can find this Mickey Spillane tough guy in \"The Big Kill\" & \"My Gun Is Quick\"'",
+                "answer": "Mike Hammer",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'\"G\" is for this bestselling novelist who came on the (crime) scene in 1982 with a female detective'",
+                "answer": "Sue Grafton",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'This elderly Englishwoman was in 1930's \"The Murder at the Vicarage\" & 1971's \"Nemesis\"'",
+                "answer": "Miss Marple",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Robert B. Parker introduced this one-named P.I. in 1974's \"The Godwulf Manuscript\"'",
+                "answer": "Spenser",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "RIDE ON": [
+            {
+                "round": "Jeopardy!",
+                "question": "'Control the throttle & air brakes as this type of engineer; remember to keep an eye on the track'",
+                "answer": "railroad (or locomotive)",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'You should be into heavy metal if you want to ride the M1 Abrams, this type of vehicle'",
+                "answer": "a tank",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'If you like short workdays, just sitting on this critter for 8 seconds can gain you fame with the PBR'",
+                "answer": "a bull",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Master the collective & cyclic control sticks & the tail rotor pedals to fly this vehicle, like the Bell 407'",
+                "answer": "a helicopter",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'For leisure purposes, you don't need a license to operate the Triton 1000, this type of vehicle'",
+                "answer": "a submarine",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "RONS, DONS & JOHNS": [
+            {
+                "round": "Jeopardy!",
+                "question": "'In 1968 this NYC real estate guy & 'uge, 'uge reality TV star got his economics degree from Wharton'",
+                "answer": "Donald Trump",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'In 1988 this now-Texas congressman got more than 400,000 votes running for president as a Libertarian'",
+                "answer": "Ron Paul",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'He had the right stuff to be the first Ohioan elected to the U.S. senate for 4 consecutive terms'",
+                "answer": "John Glenn",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'This 17th century philosopher was a court favorite of William & Mary; his name also turned up on \"Lost\"'",
+                "answer": "John Locke",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'\"Known and Unknown\" is a 2011 memoir by this former Defense Secretary'",
+                "answer": "Donald Rumsfeld",
+                "value": "$1000"
+            }
+        ]
+    }
+]

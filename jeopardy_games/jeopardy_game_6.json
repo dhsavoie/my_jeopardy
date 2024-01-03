@@ -1,0 +1,206 @@
+[
+    {
+        "HARRY TRUMAN": [
+            {
+                "round": "Jeopardy!",
+                "question": "'In 1945 Harry served just 83 days in this job'",
+                "answer": "vice president",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'It was the 4-word motto Truman kept on his desk in the Oval Office'",
+                "answer": "\"The buck stops here\"",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Each May 8 this state officially celebrates Harry Truman's birthday'",
+                "answer": "Missouri",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'It's the month Truman began a famous speech with the line \"We have just dropped a new bomb...\"'",
+                "answer": "August (of 1945)",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'He was the last person beaten by Harry Truman in an election'",
+                "answer": "Thomas Dewey",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "THE BIBLE": [
+            {
+                "round": "Jeopardy!",
+                "question": "'Created from the earth, this man's name in Hebrew means \"red earth\"'",
+                "answer": "Adam",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'It's the numerical name for the principal works of Matthew, Mark, Luke & John'",
+                "answer": "the four gospels",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Matthew 10:34 recounts that Jesus, the Prince of Peace, \"came not to send peace, but\" this instead'",
+                "answer": "a sword",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'St. Paul attended a conference in Jerusalem to decide if this \"cutting\" practice was required'",
+                "answer": "circumcision",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'In II Samuel he laments, \"Would God I had died for thee, O Absalom, my son, my son!\"'",
+                "answer": "David",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "GATES": [
+            {
+                "round": "Jeopardy!",
+                "question": "'The Jaffa Gate is the western entrance to this city's Old City'",
+                "answer": "Jerusalem",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Savior's Gate is the way into this fortress complex for leaders like Vladimir Putin'",
+                "answer": "the Kremlin",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'According to Homer, this ancient city had numerous gates, including the famous Scaean one'",
+                "answer": "Troy",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'In Norse myth the gate known as Valgrind was the main entrance to this mighty hall'",
+                "answer": "Valhalla",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'It's the historic German gate & landmark seen <a href=\"http://www.j-archive.com/media/2006-04-20_J_25.jpg\" target=\"_blank\">here</a>'",
+                "answer": "Brandenburg",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "POP MUSIC": [
+            {
+                "round": "Jeopardy!",
+                "question": "'\"Pop\" is on this 'N Sync album whose title refers ironically to the band's fame'",
+                "answer": "Celebrity",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'You'll understand her songs, like \"Ironic\" & \"Hands Clean\", when you're older & more bitter'",
+                "answer": "Alanis Morissette",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'These \"Who Let The Dogs Out?\" hitmakers come, logically enough, from the Bahamas'",
+                "answer": "the Baha Men",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'With spiky hair & names like Sid Vicious, this style of rock music shocked people in the '70s'",
+                "answer": "punk",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Despite their name, at least 1 member of <a href=\"http://www.j-archive.com/media/2004-05-07_J_22.mp3\">this</a> band has already hit 20<br /><br /><i>\"That is how we want it /<br />Floorfiller /<br />That is how we need it\"</i>'",
+                "answer": "the A-Teens",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "ANCIENT HISTORY": [
+            {
+                "round": "Jeopardy!",
+                "question": "'In 331 B.C. this Macedonian traveled to the Siwa Oasis where the oracle pronounced him a god'",
+                "answer": "Alexander the Great",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'This Thracian gladiator organized a revolt of gladiators & slaves & defeated 2 Roman armies in 72 B.C.'",
+                "answer": "Spartacus",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'In 337 A.D. this first Christian Roman emperor abolished crucifixion as a form of execution'",
+                "answer": "Constantine",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'In 439 A.D. the Vandals established their capital in this North African city founded by the Phoenicians'",
+                "answer": "Carthage",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'This Athenian lawmaker revised most of Draco's 7th century B.C. code of justice'",
+                "answer": "Solon",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "SHUT YOUR MOUTH!": [
+            {
+                "round": "Jeopardy!",
+                "question": "'\"I will remain silent.  Neither I, nor my wife, will leave Krypton\", says Marlon Brando in this 1978 film'",
+                "answer": "Superman",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'\"Factor\" in the idea that this Fox commentator has been known to tell guests in his \"No Spin Zone\" to \"Shut up!\"'",
+                "answer": "Bill O\\'Reilly",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'This comic was silenced by obscenity charges in the '60s; in 2003 Gov. Pataki gave him a posthumous pardon'",
+                "answer": "Lenny Bruce",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'If you're arrested, you have the right to remain silent thanks to this arrestee's 1966 case'",
+                "answer": "Miranda",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'\"'Are you lost, Daddy?' I arsked... 'Shut up,' he explained\" is from this \"circular\" sportswriter's \"Young Immigrunts\"'",
+                "answer": "Ring Lardner",
+                "value": "$1000"
+            }
+        ]
+    }
+]

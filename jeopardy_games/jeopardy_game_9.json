@@ -1,0 +1,206 @@
+[
+    {
+        "GREAT BOOKS IN HAIKU": [
+            {
+                "round": "Jeopardy!",
+                "question": "'1719/<br />My name is not Gilligan/<br />Thank God it's Friday'",
+                "answer": "Robinson Crusoe",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'1860s book/<br />Bolkonsky & Rostova/<br />Read in a day, not!'",
+                "answer": "War and Peace",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Heller of a book/<br />Gotta be crazy to fly/<br />Major Major Gripes'",
+                "answer": "Catch-22",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'1931/<br />Everyone Wang Lung tonight/<br />& the Buck stops here'",
+                "answer": "The Good Earth",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Steinbeck at 60/<br />In search of America/<br />Poodle co-pilot'",
+                "answer": "Travels with Charley",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "THE \"IZE\" HAVE IT": [
+            {
+                "round": "Jeopardy!",
+                "question": "'To cause a boat to overturn'",
+                "answer": "capsize",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'To admire someone fanatically, especially Ruben Studdard or Kelly Clarkson'",
+                "answer": "idolize",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'From the Greek word for \"praise\", it's to speak highly of someone at his funeral'",
+                "answer": "eulogize",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'To exert exclusive commercial control over an industry & to prevent others from competing in it'",
+                "answer": "monopolize",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'To discharge army personnel & send them home'",
+                "answer": "demobilize",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "OH, THE AMENITIES!": [
+            {
+                "round": "Jeopardy!",
+                "question": "'Perhaps a game of squash before your afternoon tea at Cliveden, once the home of Lady Astor in this country'",
+                "answer": "England",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Enjoy a hot drink in the morning in Jukkasjarvi, Sweden, after a chilly night in a hotel made entirely of this'",
+                "answer": "ice",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Ah!  A lavishly stocked mini bar!  It could distract me from the dancing fountains & the \"O\" show at this Vegas hotel'",
+                "answer": "The Bellagio",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Frolic in a 7' tall champagne glass hot tub at Caesars Cove Haven Resort in the Poconos in this U.S. state'",
+                "answer": "Pennsylvania",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'This California inn whose name reminds us of \"The Material Girl\" has a caveman room with a waterfall shower'",
+                "answer": "The Madonna Inn",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "BIOGRAPHY": [
+            {
+                "round": "Jeopardy!",
+                "question": "'Wake up & identify this man often described as \"sleepy-eyed\"'",
+                "answer": "Robert Mitchum",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'He first gained fame as a jazz pianist'",
+                "answer": "Nat King Cole",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'For many years our own Johnny Gilbert was her announcer'",
+                "answer": "Dinah Shore",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'He's the tough guy turned leading man profiled here'",
+                "answer": "Lee Marvin",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'\"Turning Heads\" is the subtitle of her Biography episode'",
+                "answer": "Linda Blair",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "BRITISH SPELLING BEE": [
+            {
+                "round": "Jeopardy!",
+                "question": "'A book-like listing of a business' goods for sale; Sears & Roebuck used to put out a famous one'",
+                "answer": "C-A-T-A-L-O-G-U-E",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Use this farm implement that breaks up soil to plant your leeks'",
+                "answer": "P-L-O-U-G-H",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Go to the famous Globe one to see a play by Shakespeare'",
+                "answer": "T-H-E-A-T-R-E",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'At the pub, it's beer from a keg, not a bottle'",
+                "answer": "D-R-A-U-G-H-T",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Good Britons recycle this metal in their soft-drink cans'",
+                "answer": "A-L-U-M-I-N-I-U-M",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "THE ANIMAL KINGDOM": [
+            {
+                "round": "Jeopardy!",
+                "question": "'Nearly a quarter of all species of mammals are these flyers'",
+                "answer": "bats",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'(Sarah of the Clue Crew at the Columbus (Ohio) Zoo)  The manatee can live in both of these types of environments, or in a mixture of them called brackish'",
+                "answer": "salt & freshwater",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'An African species of this reptile in the genus Dasypeltis feeds entirely on birds' eggs'",
+                "answer": "snake",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The golden type of this, now a common pet, was thought to be extinct until around 1930'",
+                "answer": "hamster",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Though it's not a feline, this creature sometimes has \"cat\" attached to its name'",
+                "answer": "civet (or civet cat)",
+                "value": "$1000"
+            }
+        ]
+    }
+]

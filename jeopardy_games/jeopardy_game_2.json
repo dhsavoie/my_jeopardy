@@ -1,0 +1,206 @@
+[
+    {
+        "ETIQUETTE": [
+            {
+                "round": "Jeopardy!",
+                "question": "'Miss Manners says that the only safe place to keep damaging love letters is in this place, \"between burning logs\"'",
+                "answer": "the fireplace",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'If a bride's principal attendant is married, she isn't called a Maid of Honor but this'",
+                "answer": "a Matron",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Add one letter to \"etiquette\" to get this word for online etiquette'",
+                "answer": "netiquette",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'A fairly stiff handshake & a pat on the shoulder may help you avoid one of these, even the \"air\" type'",
+                "answer": "a kiss",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'This should never precede a lady into a room, even if it's Caleche or Diorissimo'",
+                "answer": "the perfume (the scent)",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "SELDOM IS HEARD": [
+            {
+                "round": "Jeopardy!",
+                "question": "'After a quaff of a \"drink me\" vial, we're told this character \"very seldom followed\" her own good advice'",
+                "answer": "Alice (in Wonderland)",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'A proverb says that this \"seldom knocks twice\"'",
+                "answer": "opportunity",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'\"He that is discontented in one place will seldom be happy in another\" is a moral from this Greek B.C. guy'",
+                "answer": "Aesop",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Completes Dorothy Parker's verdict \"Men seldom make passes at...\"'",
+                "answer": "girls who wear glasses",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'James Madison said in these \"papers\" that \"A bad cause seldom fails to betray itself\"'",
+                "answer": "The Federalist Papers",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "PLAYING BASEBALL FOR VOCABULARY": [
+            {
+                "round": "Jeopardy!",
+                "question": "'This device lets a trombonist change pitch'",
+                "answer": "a slide",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'A mixture of flour & water to make pancakes'",
+                "answer": "batter",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'An intentional stoppage by workers'",
+                "answer": "a strike",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'An unraveling in your nylon stocking'",
+                "answer": "a run",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'A single-handled jug with a spout for pouring'",
+                "answer": "a pitcher",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "IT HAPPENED IN THE PAST": [
+            {
+                "round": "Jeopardy!",
+                "question": "'On Feb. 10, 1985 this African man said, \"Only free men can negotiate; prisoners cannot enter into contracts\"'",
+                "answer": "Nelson Mandela",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'A senate report showed his govt., deposed in 2003, stole billions from the U.N.'s Oil-for-Food program'",
+                "answer": "(Saddam) Hussein",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'On March 3, 1873, amid pre-inaugural festivity, Congress quietly passed a law increasing these by 50%, retroactive 2 years'",
+                "answer": "salaries",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'On Sept. 3, 1658 this Lord Protector of England stopped breathing (& protecting)'",
+                "answer": "Oliver Cromwell",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'On July 26, 1956 Egypt seized control of this geographic feature from its French & British owners'",
+                "answer": "the Suez canal",
+                "value": "$1,000"
+            }
+        ]
+    },
+    {
+        "MAY I HAVE A WORD WITH \"U\"?": [
+            {
+                "round": "Jeopardy!",
+                "question": "'It's the term for a university or college student who's working toward a bachelor's degree'",
+                "answer": "an undergraduate",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'In the American Heritage Dictionary, the last entry under \"U\" is this Israeli-made submachine gun'",
+                "answer": "an Uzi",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'It's my final offer, take it or leave it; I'm giving you this'",
+                "answer": "an ultimatum",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'It's the part of the mind Freud termed the id'",
+                "answer": "the unconscious",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'When everyone is in complete agreement, it's this 9-letter adjective'",
+                "answer": "unanimous",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "5 BOTTLES OF BEER ON THE BOARD": [
+            {
+                "round": "Jeopardy!",
+                "question": "'This \"King of Beers\" was the official beer of the 2007 Sports Illustrated Swimsuit Issue'",
+                "answer": "Budweiser",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'This company's website says it has been \"brewed for over 30 years (&) is the first lite beer\"'",
+                "answer": "Miller",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'This company's beer, introduced in 1874, \"is brewed in the Rockies for a uniquely crisp, clean... Mile High taste\"'",
+                "answer": "Coors",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'In 1897 Wilhelm Hasse of the Moctezuma Brewery created a beer named Siglo XX; today, it's known as this'",
+                "answer": "Dos Equis",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Two-row barley & German noble aroma hops help make this Founding Father's Boston Lager go down easy'",
+                "answer": "Samuel Adams",
+                "value": "$1000"
+            }
+        ]
+    }
+]

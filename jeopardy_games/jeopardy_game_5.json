@@ -1,0 +1,206 @@
+[
+    {
+        "HAMNESIA": [
+            {
+                "round": "Jeopardy!",
+                "question": "'Where am I?  I can't remember anything!  Hey!  A locket with a frog's picture in it, maybe it'll jar my memory?  Kermy?'",
+                "answer": "Miss Piggy",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'OK, so there's a web above me that spells out \"Some pig\"; some pig, indeed'",
+                "answer": "Wilbur",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'OK, I'm on some kind of farm... What does that say...Hoggett? & why are these sheep following me?'",
+                "answer": "Babe",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Oh d-d-dear-dear!  Where was it Pooh said we should meet? at least I have some haycorns in my pocket...'",
+                "answer": "Piglet",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'I must remember! some plans for a windmill in my pocket that I must've drawn up & a note that says \"Watch Napoleon\"'",
+                "answer": "Snowball",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "BIBLICAL WHO SAID IT?": [
+            {
+                "round": "Jeopardy!",
+                "question": "'\"Let there be a firmament in the midst of the waters\"'",
+                "answer": "God",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'\"Intreat the Lord, that he may take away the frogs from me\"'",
+                "answer": "the pharoah",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'\"Take me up. and cast me forth into the sea\", for I know that for my sake this great tempest is upon you\"'",
+                "answer": "Jonah",
+                "value": "$1,000"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'\"Except I shall see in his hands the print of the nails... and thrust my hand into his side, I will not believe\"'",
+                "answer": "Thomas",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'\"But ye have a custom, that I should release unto you one at the Passover\"'",
+                "answer": "Pilate",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "OH GIVE ME A HOME": [
+            {
+                "round": "Jeopardy!",
+                "question": "'...free of these wood-eating pests of the order isoptera'",
+                "answer": "termites",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'...that's built to withstand these, as mandated in Los Angeles building code section 8805'",
+                "answer": "earthquakes",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'...with one of these metallic masts to protect it in stormy weather'",
+                "answer": "a lightning rod",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'...on one of these idyllic places formerly known as the Sandwich Islands'",
+                "answer": "Hawaii",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'...with one of these large open porches from the Spanish for \"balcony\"'",
+                "answer": "veranda",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "THE NATIONAL MUSEUM OF THE MARINE CORPS": [
+            {
+                "round": "Jeopardy!",
+                "question": "'(<a href=\"http://www.j-archive.com/media/2009-05-18_J_07.jpg\" target=\"_blank\">Sarah of the Clue Crew reports from the National Museum of the Marine Corps, Quantico, VA.</a>)  Immortalized in a photo, here is the actual flag <a href=\"http://www.j-archive.com/media/2009-05-18_J_07a.jpg\" target=\"_blank\">raised</a> on this island on February 23, 1945'",
+                "answer": "Iwo Jima",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The \"hot\" landing zone at Hill 881 South near Khe Sanh is depicted in the Gallery of this war'",
+                "answer": "the Vietnam War",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'(<a href=\"http://www.j-archive.com/media/2009-05-18_J_09.jpg\" target=\"_blank\">Jon of the Clue Crew reports from the National Museum of the Marine Corps, Quantico, VA.</a>)  The HRS-1, named for <a href=\"http://www.j-archive.com/media/2009-05-18_J_09a.jpg\" target=\"_blank\">this</a> Russian, was used in the first helicopter insertion of combat troops on September 20, 1951'",
+                "answer": "(Igor) Sikorsky",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The heart of the museum is this gallery, slang for a marine from a collar that was once part of the uniform'",
+                "answer": "the Leatherneck Gallery",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'(<a href=\"http://www.j-archive.com/media/2009-05-18_J_19.jpg\" target=\"_blank\">Jon of the Clue Crew reports from the National Museum of the Marine Corps, Quantico, VA.</a>)  An aircraft key to Marine history is the AV-8B <a href=\"http://www.j-archive.com/media/2009-05-18_J_19a.jpg\" target=\"_blank\">jump jet</a>, known by this 7-letter name; it can carry Sidewinders & laser-guided bombs'",
+                "answer": "the Harrier",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "BEFORE HE WAS PRESIDENT...": [
+            {
+                "round": "Jeopardy!",
+                "question": "'He was the author of \"Profiles in Courage\"'",
+                "answer": "(John F.) Kennedy",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'He was a matinee idol'",
+                "answer": "Ronald Reagan",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'He was postmaster of New Salem, Illinois'",
+                "answer": "Abraham Lincoln",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'He owned a haberdashery in Kansas City, Missouri'",
+                "answer": "Harry S. Truman",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'He was Thomas Jefferson's secretary of state'",
+                "answer": "(James) Madison",
+                "value": "$1,000"
+            }
+        ]
+    },
+    {
+        "FISH, BIRD OR MAMMAL": [
+            {
+                "round": "Jeopardy!",
+                "question": "'The bearded tit'",
+                "answer": "a bird",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The coati'",
+                "answer": "a mammal",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The skipjack'",
+                "answer": "a fish",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The wahoo'",
+                "answer": "a fish",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The margay'",
+                "answer": "a mammal",
+                "value": "$1000"
+            }
+        ]
+    }
+]

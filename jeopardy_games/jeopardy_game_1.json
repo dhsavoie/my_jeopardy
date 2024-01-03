@@ -1,0 +1,206 @@
+[
+    {
+        "OUR FEATHERED FRIENDS": [
+            {
+                "round": "Jeopardy!",
+                "question": "'These smallest birds have very small legs & small feet; they perch but don't walk or climb'",
+                "answer": "hummingbirds",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'While smaller types of this bird settle for beetles & snails, the Great Horned type goes after other owls & rabbits'",
+                "answer": "the owl",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'True lovebirds are found on the African mainland & this largest African island'",
+                "answer": "Madagascar",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Teddy Roosevelt established a refuge in Florida to protect the nesting sites of the brown species of this water bird'",
+                "answer": "pelican",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The nene, an endangered Hawaiian species of this fowl, has grown from 30 birds in 1952 to over 800 today'",
+                "answer": "goose",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "HOMOPHONES": [
+            {
+                "round": "Jeopardy!",
+                "question": "'Showers, or leather straps that control a horse'",
+                "answer": "rains/reins",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'A horse's harness, or pertaining to a wedding'",
+                "answer": "bridle/bridal",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'To acquire through merit, or a large decorative vase'",
+                "answer": "earn/urn",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'A plant of the parsley family, or a unit to measure the fineness of gold'",
+                "answer": "carrot/karat",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Transparently thin, or to cut wool'",
+                "answer": "sheer/shear",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "WHAT 4": [
+            {
+                "round": "Jeopardy!",
+                "question": "'It's the 5-sided base among a baseball field's 4'",
+                "answer": "home plate",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'His third wife, Jiang Qing, was a member of the Gang of Four'",
+                "answer": "Mao (Zedong)",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Of FDR's 4 inaugural addresses, the one which included the \"fear itself\" bit'",
+                "answer": "the first one",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Leonard Bernstein's recording of this Vivaldi work begins with \"Spring: Allegro\"'",
+                "answer": "The Four Seasons",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The tetragrammaton JHVH, the Hebrew name for God, gives us this word'",
+                "answer": "Jehovah",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "THE IS YOUR LIFE, ABE LINCOLN!": [
+            {
+                "round": "Jeopardy!",
+                "question": "'In 1870 Congress granted her an annual pension of $3,000; call her sugar-mama or simply your wife, here's...'",
+                "answer": "Mary Lincoln",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'You said of this general, \"I can't spare this man--he fights\"; he sure seems to be enjoying the green room, it's...'",
+                "answer": "(Ulysses) Grant",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'In 1860 he got 12 electoral votes but you got the job; feel free to debate...'",
+                "answer": "(Stephen) Douglas",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'You said if this general \"is not using the army, I should like to borrow it for a while\"; say hello to...'",
+                "answer": "General George McClellan",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Sec. of War for Franklin Pierce , some called him Mr. President (though certainly not you!); say hello to...'",
+                "answer": "Jefferson Davis",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "SYNONYMBLE": [
+            {
+                "round": "Jeopardy!",
+                "question": "'Alice in Wonderland could tell you that a looking-glass is a synonym for one of these'",
+                "answer": "mirror",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'2 of the 3 animals for which pachyderm is a synonym'",
+                "answer": "elephant, hippopotamus, rhinoceros",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'This synonym for the Netherlands technically refers to only part of the country'",
+                "answer": "Holland",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'As a verb, this Aboriginal weapon is a synonym for backfire'",
+                "answer": "boomerang",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'If someone asks you for another term for one of these books made famous by Roget, tell him, \"synonym finder\"'",
+                "answer": "thesaurus",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "MILITARY INSTALLATIONS BY STATE": [
+            {
+                "round": "Jeopardy!",
+                "question": "'Fort Campbell,<br />Fort Knox'",
+                "answer": "Kentucky",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Fort Hood,<br />Naval air station Corpus Christi'",
+                "answer": "Texas",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Fort Bragg,<br />Camp Lejeune'",
+                "answer": "North Carolina",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Fort McPherson,<br />Robins Air Force Base'",
+                "answer": "Georgia",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Fort Monmouth,<br />Fort Dix'",
+                "answer": "New Jersey",
+                "value": "$1000"
+            }
+        ]
+    }
+]

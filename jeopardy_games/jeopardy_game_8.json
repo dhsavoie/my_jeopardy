@@ -1,0 +1,206 @@
+[
+    {
+        "ONOMATOPOEIA": [
+            {
+                "round": "Jeopardy!",
+                "question": "'Listerine asks you to do this with its product twice a day'",
+                "answer": "gargle",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'A droning or vibrating sound, or an excited interest in a trend in society; also a type of saw'",
+                "answer": "buzz",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'To give a just-fed baby a pat on the back (or several)'",
+                "answer": "to burp",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'You don't need to be crazy to know that this bird, Cuculus canorus, has an odd call'",
+                "answer": "a cuckoo",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'This word that describes a tearful cry is a homophone for a glitzy destination for Cinderella'",
+                "answer": "a bawl",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "IT'S NOT ALEX TREBEK": [
+            {
+                "round": "Jeopardy!",
+                "question": "'It's not me in the painting seen here, it's this complex island dweller with a taste for conquest'",
+                "answer": "Napoleon",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'It's not me in the picture seen here, it's a self-portrait of this famous artist'",
+                "answer": "Vincent Van Gogh",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'It's not me in the photo seen here, it's this determined turn-of-the-century teetotaler'",
+                "answer": "Carrie Nation",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'No, it's not me in the picture seen here, it's this 16th century man with many mothers-in-law'",
+                "answer": "Henry VIII",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'It's not me in the portrait seen here, it's this doomed 18th century queen'",
+                "answer": "Marie Antoinette",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "THE BIBLE": [
+            {
+                "round": "Jeopardy!",
+                "question": "'Created from the earth, this man's name in Hebrew means \"red earth\"'",
+                "answer": "Adam",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'It's the numerical name for the principal works of Matthew, Mark, Luke & John'",
+                "answer": "the four gospels",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Matthew 10:34 recounts that Jesus, the Prince of Peace, \"came not to send peace, but\" this instead'",
+                "answer": "a sword",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'St. Paul attended a conference in Jerusalem to decide if this \"cutting\" practice was required'",
+                "answer": "circumcision",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'In II Samuel he laments, \"Would God I had died for thee, O Absalom, my son, my son!\"'",
+                "answer": "David",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "ADD A \"PIN\"CH": [
+            {
+                "round": "Jeopardy!",
+                "question": "'This leafy green vegetable originated in Southwest Asia & was considered a medicine by Persians'",
+                "answer": "spinach",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The type of bowling done on the PBA circuit, or one of the objects you'd aim your ball at'",
+                "answer": "tenpin",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'In order to remain independent, this 17th C. Dutch philosopher declined a professorship & a pension'",
+                "answer": "Spinoza",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'A green woodpecker or a vain, pretentious chatterbox'",
+                "answer": "popinjay",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'It's a pair of glasses kept on the face by a spring that grips the nose'",
+                "answer": "pince-nez",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "HOLD THE FORT": [
+            {
+                "round": "Jeopardy!",
+                "question": "'Built by the British in 1764, Fort Erie was captured by American troops during this war'",
+                "answer": "The War of 1812",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The Texas fort named for this president of the Republic of Texas is home to the U.S. Army Medical Command'",
+                "answer": "Sam Houston",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Located 35 miles from Louisville, it was named for America's first Secretary of War'",
+                "answer": "Fort Knox",
+                "value": "$1,000"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Pencil in the date-- July 6, 1777-- that's when British Gen. John Burgoyne forced the surrender of this N.Y. fort'",
+                "answer": "Ticonderoga",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'This North Carolina fort \"boasts\" of being the \"home of the airborne & special operations forces\"'",
+                "answer": "Fort Bragg",
+                "value": "$1000"
+            }
+        ]
+    },
+    {
+        "TOYS & GAMES": [
+            {
+                "round": "Jeopardy!",
+                "question": "'Make no apology for this classic board game, the game of \"sweet revenge\"'",
+                "answer": "Sorry!",
+                "value": "$200"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'The hot toys for Christmas 2009 were the hamsters from this brand of \"pets\" with a double talk name'",
+                "answer": "Zhu Zhu Pets",
+                "value": "$400"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Bionicle is one of the lines from this brand of building blocks'",
+                "answer": "Lego",
+                "value": "$600"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Spheres transform into warriors, like Skyress & Stinglash from this line of battle brawlers'",
+                "answer": "Bakugan",
+                "value": "$800"
+            },
+            {
+                "round": "Jeopardy!",
+                "question": "'Scrabble this is a card game in which players throw down their cards to change existing 4-letter words'",
+                "answer": "Scrabble Slam",
+                "value": "$1000"
+            }
+        ]
+    }
+]

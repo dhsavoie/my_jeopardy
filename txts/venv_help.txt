@@ -1,0 +1,16 @@
+For windows:
+
+Create venv with:
+`python -m venv myvenv`
+
+Activate:
+`myvenv\Scripts\activate`
+
+Deactivate:
+`deactivate`
+
+Create Requirements:
+`pip freeze > requirements.txt`
+
+Install dependencies using requirements:
+`pip install -r requirements.txt`
