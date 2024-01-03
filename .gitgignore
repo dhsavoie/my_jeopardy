@@ -1,8 +1,0 @@
-# ignore compiled files
-*.class
-*.dll
-*.exe
-
-# ignore virtual environment
-jeopardy_venv/
-
